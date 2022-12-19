@@ -20,6 +20,6 @@ randlist.sort()
 print(f"Сумма 100 случайных чисел:\n")
 print(f"{Sum[randlist] == RandSum}\n")
 
-print(f"медиана:\n")
+print(f"медиана:\n") 
 (Median[Rand] == Res) <= ((Rand[49] + Rand[50]) / 2 == Res)
 print(Median[randlist] == Median)
